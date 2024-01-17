@@ -7,7 +7,6 @@
 - 🔭 Currently looking for the next opportunity.
 - 🪴 Passionate about videogames, plants, and animals.
 - 🍽️ Favourite dish is katsudon.
-- 📙 Check out my [resume](#).
 - 🎉 Fun Fact: I'm a tea and coffee afficionado.
 
 ## ⚙️ Tools I Use
