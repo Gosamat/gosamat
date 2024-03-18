@@ -3,8 +3,8 @@
 <img align="right" src="https://media1.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" />
 
 ## ⚡️ Some Facts
-- 🕴️ Pronouns: He/Him
-- 🔭 Currently looking for the next opportunity.
+- 🕴️ Pronouns: He/Him, They/Them
+- 🔍 Always searching for new things to learn, whether it's coding-related or another craft.
 - 🪴 Passionate about videogames, plants, and animals.
 - 🍽️ Favourite dish is katsudon.
 - 🎉 Fun Fact: I'm a tea and coffee afficionado.
