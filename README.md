@@ -3,7 +3,7 @@
 <img align="right" src="https://media1.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" />
 
 ## ⚡️ Some Facts
-- 🕴️ Pronouns: He/Him, They/Them
+- 🕴️ Pronouns: He/Him
 - 🔍 Always searching for new things to learn, whether it's coding-related or another craft.
 - 🪴 Passionate about videogames, plants, and animals.
 - 🍽️ Favourite dish is katsudon.
