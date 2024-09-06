@@ -5,7 +5,7 @@
 ## ⚡️ Some Facts
 - 🕴️ Pronouns: He/Him
 - 🔍 Always searching for new things to learn, whether it's coding-related or another craft.
-- 🪴 Passionate about videogames, plants, and animals.
+- 🪴 Passionate about videogames, animation, editing, plants, and animals.
 - 🍽️ Favourite dish is katsudon.
 - 🎉 Fun Fact: I'm a tea and coffee afficionado.
 
@@ -17,8 +17,8 @@
 
 ## 🛠️ Projects
 
-### 🚀 Ongoing
-Currently working on a Task Management app built with Python in the backend and React.js in the frontend. The goal is to be able to see at a glance all the tasks you have/want to do in different facets of life.
+<!-- ### 🚀 Ongoing
+Currently working on a Task Management app built with Python in the backend and React.js in the frontend. The goal is to be able to see at a glance all the tasks you have/want to do in different facets of life. -->
 
 ### 📂 History
 - 📜 [My Portfolio](https://goncalo-matias-dev-portoflio.netlify.app/) - Web application made with React.js to showcase my skills and projects.
@@ -26,12 +26,3 @@ Currently working on a Task Management app built with Python in the backend and 
 - 🪴 [Found Foliage](https://foundfoliage.netlify.app/) - Full Stack web application built in React, Node, and MongoDB that leverages machine learning APIs to create a virtual plant garden for the user.
   
 - 👻 [Ghostly Tales](https://ghostly-tales.onrender.com/) - Full stack web application built with Handlebars, Express, and MongoDB with a forum-like system to share and view stories about paranormal encounters.
-
-## 📊 Stats
-<div align="center">
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gosamat&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gosamat&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br>
-  [![Profile Visits](https://visitcount.itsvg.in/api?id=gosamat&icon=0&color=8)](https://visitcount.itsvg.in)<br>
-
-</div>
